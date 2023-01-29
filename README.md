@@ -1,9 +1,9 @@
-### An Andoid Application *EnDeCode*
+### An Android Application *EnDeCode*
 
-**Objective**
+#### Objective
 > encrypt and decrypt the given text by the user
 
-**Technologies**
+#### Technologies
 > Android Studio
 
 #### About
